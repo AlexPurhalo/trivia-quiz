@@ -1,0 +1,49 @@
+/* BASIC */
+ul {
+    padding: 0 0;
+    margin: 0 0;
+}
+
+.inline-list {
+
+}
+
+.inline-block {
+    display: inline;
+}
+/* HEADER */
+.header {
+    background-color: #2d9bf0;
+    color: white;
+}
+
+.brand {
+    font-size: 1.6rem;
+    font-weight: 700;
+    padding: 1rem;
+}
+
+/* MAIN */
+.main {
+
+}
+/* Answers Monitoring Section */
+.activity-monitoring {
+	padding: 1rem;
+}
+.correct-answers {
+}
+.total-questions {
+    text-align: right;
+}
+
+/* Question Header Section */
+.question-header {
+	text-align: center;
+}
+.question-title {
+	font-size: 2.2rem;
+}
+.question-category {
+	font-size: 1.25rem;
+}
